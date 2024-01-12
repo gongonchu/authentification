@@ -1,4 +1,4 @@
-package net.company.tombette.securehelloworld;
+package net.company.gongonchu.securehelloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

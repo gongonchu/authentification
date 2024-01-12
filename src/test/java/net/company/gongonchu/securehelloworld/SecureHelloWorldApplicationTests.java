@@ -1,4 +1,4 @@
-package net.company.tombette.securehelloworld;
+package net.company.gongonchu.securehelloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

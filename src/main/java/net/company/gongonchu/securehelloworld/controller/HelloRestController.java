@@ -1,4 +1,4 @@
-package net.company.tombette.securehelloworld.controller;
+package net.company.gongonchu.securehelloworld.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
